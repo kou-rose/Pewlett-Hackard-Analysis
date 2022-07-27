@@ -8,6 +8,7 @@ The goal of this task was to locate all retiring employees by title across all d
 - Of the remaining 30% retiring, the bulk are made up of basic engineers and staff. Only two managers are retiring and less than 4,000 technique leaders are retiring. 
 
 The table has been provided below to illustrate the disparity between the first point and the second.
+
 ![Resources/retiring_titles.png](Resources/retiring_titles.png)
 
 - There are 1,549 employees eligible for the company mentorship program.
